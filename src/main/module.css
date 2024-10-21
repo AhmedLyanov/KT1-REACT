@@ -1,0 +1,111 @@
+
+
+main{
+    width: 100%;
+}
+
+
+
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-1 */
+.Content-Section-1-Left{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Section-Main-Element-1{
+    width: 100%;
+    height: 607px;
+    background: #62D0DF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Description-Content-Left{
+    width: 586px;
+    height: 350px;
+    display: grid;
+}
+
+.Image-Element-Section-1{
+    width: 520px;
+    height: 604px;
+    
+}
+
+.Title-Section-1{
+    font-family: "ABeeZee", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 27.66px;
+    color: #ffffff;
+}
+.Description-Section-1{
+    font-family: "ABeeZee", sans-serif;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 35.46px;
+    color: #ffffff;
+}
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-1 */
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-2 */
+.Section-Main-Element-2{
+    width: 100%;
+    height: 633px;
+    background: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Description-Content-Center{
+    width: 739px;
+    height: 243.46px;
+    display: grid;
+}
+.Description-Section-2-Type-1, .Description-Section-2-Type-2{
+    font-family: "ABeeZee", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 34.04px;
+    color: #22356F;
+}
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-2 */
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-3 */
+.Section-Main-Element-3{
+    width: 100%;
+    height: 480px;
+    background: transparent;
+}
+
+.Cards-Container{
+    display: flex;
+    justify-content: center;
+}
+
+.Card-Element-Section-3-Type-1, .Card-Element-Section-3-Type-2, .Card-Element-Section-3-Type-3{
+    width: 608px;
+    height: 480px;
+    padding: 60px;
+}
+.Card-Element-Section-3-Type-1{
+    background-color: #22356F;
+}
+.Card-Element-Section-3-Type-2{
+    background-color: #0052C1;
+}
+.Card-Element-Section-3-Type-3{
+    background-color: #76B58B;
+}
+
+.Div-Line-Box{
+    border-top: 1px solid #ffffff;
+    font-family: "ABeeZee", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 70.04px;
+    color: #ffffff;
+}
+/*//////////////////////////////////////////////////////////////////////////////////// Main-Section-3 */
